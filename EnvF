@@ -14,7 +14,7 @@ Domicilio: <input type="text" name="domicilio" size="30" maxlength="60"> <br> <b
 Ciudad: <input type="text" name="Ciudad" size="30" maxlength="60"> <br> <br>
 
 Estado: 
-<select name="estados" size="3">
+<select name="estado" size="3">
 <option value="Ags">Aguascalientes</option>
 <option value="Baja CS">Baja California Sur</option>
 <option value="Baja C">Baja California</option>
@@ -56,7 +56,7 @@ Semestre: <br>
 <input type="radio" name="semestre" value="quinto"> 5°
 <input type="radio" name="semestre" value="sexto"> 6° <br> <br>
 Añade tus comentarios: <br> <br>
-<textarea name="Comentarios" rows="5" cols="65" wrap>
+<textarea name="comentarios" rows="5" cols="65" wrap>
 </textarea> <br> <br>
 <input type="checkbox" name="notif" value="novedades"> Deseo recibir una notificación de las novedades <br>
 <input type="checkbox" name="notif" value="eventos"> Deseo participar en los eventos<br>
