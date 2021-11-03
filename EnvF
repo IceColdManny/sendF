@@ -3,20 +3,50 @@
 <body background="https://th.bing.com/th/id/OIP.rgBXMNk28fRu1emt4IZA5gHaEK?pid=ImgDet&rs=1">
 <font face ="Arial Black" color="#65F348" size="5">
 <form>
-Nombre: <input type="text" name="nombre" size="50" maxlength="50"> <br> <br>
-Apellidos: <input type="text" name="apellidos" size="50" maxlength="50"> <br> <br>
-Correo: <input type="text" name="email" size="50" maxlength="50"> <br> <br>
+Nombre: <input type="text" name="nombre" size="30" maxlength="50"> <br> <br>
+Apellidos: <input type="text" name="apellidos" size="35" maxlength="50"> <br> <br>
+Correo: <input type="text" name="email" size="30" maxlength="50"> <br> <br>
 Edad: <input type="text" name="edad" size="3" maxlength="3"> <br> <br>
 Sexo:
 <input type="radio" name="sexo" value="mujer">Mujer 
-<input type="radio" name="sexo" value="hombre">Hombre
+<input type="radio" name="sexo" value="hombre">Hombre <br> <br>
+Domicilio: <input type="text" name="domicilio" size="30" maxlength="60"> <br> <br>
+Ciudad: <input type="text" name="Ciudad" size="30" maxlength="60"> <br> <br>
 
-
+Estado: 
 <select name="estados" size="3">
 <option value="1"> Aguascalientes</option>
 <option value="2">Baja California Sur</option>
 <option value="3">Baja California</option>
 <option value="4">Campeche</option>
+<option value="5">Chiapas
+<option value="6">Chihuahua
+<option value="7">Ciudad de México
+<option value="8">Coahuila
+<option value="9">Colima
+<option value=10">Durango
+<option value="11">Estado de México
+<option value="12">Guanajuato
+<option value="13">Guerrero
+<option value="14">Hidalgo
+<option value="15">Jalisco
+<option value="16">Michoacán
+<option value="17">Morelos
+<option value="18">Nayarit
+<option value="19">Nuevo León
+<option value="20">Oaxaca
+<option value="21">Puebla
+<option value="22">Querétaro
+<option value="23">Quintana Roo
+<option value="24">San Luis Potosí
+<option value="25">Sinaloa
+<option value="26">Sonora
+<option value="27">Tabasco
+<option value="28">Tamaulipas
+<option value="29">Tlaxcala
+<option value="30">Veracruz
+<option value="31">Yucatán
+<option value="32">Zacatecas
 <input type="submit" value="enviar" <br> <br>
 </font>
 </form>
