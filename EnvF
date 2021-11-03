@@ -45,9 +45,18 @@ Estado:
 <option value="Tamaulipas">Tamaulipas</option>
 <option value="Tlaxcala">Tlaxcala</option>
 <option value="Veracruz">Veracruz</option>
-<option value="Yucatán">Yucatán</option>
+<option value="Yucatan">Yucatan</option>
 <option value="Zacatecas">Zacatecas</option>
-</select>
+</select> <br> <br>
+Semestre:
+<input type="radio" name="sem" value="1°"> 1° <br> <br>
+<input type="radio" name="sem" value="2°"> 2° <br> <br>
+<input type="radio" name="sem" value="3°"> 3° <br> <br>
+<input type="radio" name="sem" value="4°"> 4° <br> <br>
+<input type="radio" name="sem" value="5°"> 5° <br> <br>
+<input type="radio" name="sem" value="6°"> 6° <br> <br>
+
+
 <input type="submit" value="enviar" <br> <br>
 </font>
 </form>
