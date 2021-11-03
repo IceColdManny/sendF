@@ -1,14 +1,18 @@
+<form action = "mailto:josemanueljuarezcetis80.edu.mx" method="post" enctype="textplain">
 <html>
-<form action = "mailto: josemanueljuarezcetis80.edu.mx">
 <body background="https://th.bing.com/th/id/OIP.rgBXMNk28fRu1emt4IZA5gHaEK?pid=ImgDet&rs=1">
 <font face ="Arial Black" color="#65F348" size="5">
 <form>
 Nombre: <input type="text" name="nombre" size="50" maxlength="50"> <br> <br>
 
 
-
-
+<select name="estados" size="3">
+<option value="1"> Aguascalientes</option>
+<option value="2">Baja California Sur</option>
+<option value="3">Baja California</option>
+<option value="4">Campeche</option>
+<input type="submit" value="enviar" <br> <br>
 </font>
 </form>
-<input type="submit" value="enviar" <br> <br>
+
 </html>
