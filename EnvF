@@ -49,12 +49,12 @@ Estado:
 <option value="Zacatecas">Zacatecas</option>
 </select> <br> <br>
 Semestre: <br>
-<input type="radio" name="sem" value="1°"> 1
-<input type="radio" name="sem" value="2°"> 2
-<input type="radio" name="sem" value="3°"> 3
-<input type="radio" name="sem" value="4°"> 4
-<input type="radio" name="sem" value="5°"> 5
-<input type="radio" name="sem" value="6°"> 6 <br> <br>
+<input type="radio" name="sem" value="1°"> 1°
+<input type="radio" name="sem" value="2°"> 2°
+<input type="radio" name="sem" value="3°"> 3°
+<input type="radio" name="sem" value="4°"> 4°
+<input type="radio" name="sem" value="5°"> 5°
+<input type="radio" name="sem" value="6°"> 6° <br> <br>
 
 
 <input type="submit" value="enviar" <br> <br>
