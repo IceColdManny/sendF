@@ -9,7 +9,7 @@ Correo: <input type="text" name="email" size="50" maxlength="50"> <br> <br>
 Edad: <input type="text" name="edad" size="3" maxlength="3"> <br> <br>
 Sexo:
 <input type="radio" name="sexo" value="mujer">Mujer 
-<inputy type="radio" name="sexo" value="hombre">Hombre
+<input type="radio" name="sexo" value="hombre">Hombre
 
 
 <select name="estados" size="3">
