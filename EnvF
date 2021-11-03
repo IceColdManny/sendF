@@ -55,8 +55,14 @@ Semestre: <br>
 <input type="radio" name="semestre" value="cuarto"> 4°
 <input type="radio" name="semestre" value="quinto"> 5°
 <input type="radio" name="semestre" value="sexto"> 6° <br> <br>
+Añade tus comentarios: <br> <br>
+<textarea name="Comentarios" rows="5" cols="65" wrap>
+</textarea> <br> <br>
+<input type="checkbox" name="notif" value="novedades"> Deseo recibir una notificación de las novedades <br>
+<input type="checkbox" name="notif" value="eventos"> Deseo participar en los eventos<br>
+<input type="checkbox" name="notif" value="catalogos"> Deseo que me envíen catalogos de los productos <br>
 
-
+<input type="reset" value="borrar todos los datos ingresados"> <br> <br>
 <input type="submit" value="enviar" <br> <br>
 </font>
 </form>
