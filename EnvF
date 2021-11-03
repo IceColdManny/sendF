@@ -1,0 +1,14 @@
+<html>
+<form action = "mailto: josemanueljuarezcetis80.edu.mx">
+<body background="https://th.bing.com/th/id/OIP.rgBXMNk28fRu1emt4IZA5gHaEK?pid=ImgDet&rs=1">
+<font face ="Arial Black" color="#65F348" size="5">
+<form>
+Nombre: <input type="text" name="nombre" size="50" maxlength="50"> <br> <br>
+
+
+
+
+</font>
+</form>
+<input type="submit" value="enviar" <br> <br>
+</html>
