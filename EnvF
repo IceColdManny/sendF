@@ -3,7 +3,7 @@
 <body background="https://th.bing.com/th/id/OIP.rgBXMNk28fRu1emt4IZA5gHaEK?pid=ImgDet&rs=1">
 <font face ="Arial Black" color="#65F348" size="5">
 <form>
-Nombre: <input type="text" name="nombre" size="30" maxlength="50"> <br> <br>
+Nombre(s): <input type="text" name="nombre(s)" size="30" maxlength="50"> <br> <br>
 Apellidos: <input type="text" name="apellidos" size="35" maxlength="50"> <br> <br>
 Correo: <input type="text" name="email" size="30" maxlength="50"> <br> <br>
 Edad: <input type="text" name="edad" size="3" maxlength="3"> <br> <br>
