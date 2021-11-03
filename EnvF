@@ -15,38 +15,39 @@ Ciudad: <input type="text" name="Ciudad" size="30" maxlength="60"> <br> <br>
 
 Estado: 
 <select name="estados" size="3">
-<option value="1"> Aguascalientes</option>
-<option value="2">Baja California Sur</option>
-<option value="3">Baja California</option>
-<option value="4">Campeche</option>
-<option value="5">Chiapas
-<option value="6">Chihuahua
-<option value="7">Ciudad de México
-<option value="8">Coahuila
-<option value="9">Colima
-<option value=10">Durango
-<option value="11">Estado de México
-<option value="12">Guanajuato
-<option value="13">Guerrero
-<option value="14">Hidalgo
-<option value="15">Jalisco
-<option value="16">Michoacán
-<option value="17">Morelos
-<option value="18">Nayarit
-<option value="19">Nuevo León
-<option value="20">Oaxaca
-<option value="21">Puebla
-<option value="22">Querétaro
-<option value="23">Quintana Roo
-<option value="24">San Luis Potosí
-<option value="25">Sinaloa
-<option value="26">Sonora
-<option value="27">Tabasco
-<option value="28">Tamaulipas
-<option value="29">Tlaxcala
-<option value="30">Veracruz
-<option value="31">Yucatán
-<option value="32">Zacatecas
+<option value="Ags">Aguascalientes</option>
+<option value="Baja CS">Baja California Sur</option>
+<option value="Baja C">Baja California</option>
+<option value="Campeche">Campeche</option>
+<option value="Chiapas">Chiapas</option></option>
+<option value="Chihuahua">Chihuahua</option></option>
+<option value="CDMX">Ciudad de México</option></option>
+<option value="Coahuila">Coahuila</option></option>
+<option value="Colima">Colima</option></option>
+<option value="Durango">Durango</option></option>
+<option value="EDMX">Estado de México</option>
+<option value="Guanajuato">Guanajuato</option>
+<option value="Guerrero">Guerrero</option>
+<option value="Hidalgo">Hidalgo</option>
+<option value="Jal">Jalisco</option>
+<option value="Mich">Michoacán</option>
+<option value="Morelos">Morelos</option>
+<option value="Nayarit">Nayarit</option>
+<option value="NL">Nuevo León</option>
+<option value="Oaxaca">Oaxaca</option>
+<option value="Puebla">Puebla</option>
+<option value="Quer">Queretaro</option>
+<option value="Q Roo">Quintana Roo</option>
+<option value="SLP">San Luis Potosí</option>
+<option value="Sinaloa">Sinaloa</option>
+<option value="Sonora">Sonora</option>
+<option value="Tabasco">Tabasco</option>
+<option value="Tamaulipas">Tamaulipas</option>
+<option value="Tlaxcala">Tlaxcala</option>
+<option value="Veracruz">Veracruz</option>
+<option value="Yucatán">Yucatán</option>
+<option value="Zacatecas">Zacatecas</option>
+</select>
 <input type="submit" value="enviar" <br> <br>
 </font>
 </form>
